@@ -1,0 +1,24 @@
+# Data files (too large, download instructions in README)
+data/
+*.csv
+
+# Database file
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Private working log
+PROGRESS.md
+NOTES.md
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
