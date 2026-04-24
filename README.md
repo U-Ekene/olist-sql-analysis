@@ -52,6 +52,17 @@ olist-sql-analysis/
 
 ## Key Findings
 
-(To be filled in as analysis completes.)
+### Theme 1: Dataset shape
+
+- **99,441 orders** across **25 months** (Sept 2016 – Oct 2018)
+- **~97% of orders successfully delivered** — operational health 
+  is strong
+- **Heavy geographic concentration:** 3 states (SP, RJ, MG) account 
+  for ~67% of all orders; São Paulo alone is 42%
+- **Within SP, one city dominates:** São Paulo city has ~10× the 
+  orders of the next-largest SP city (Campinas)
+- **Low repeat purchase rate (~3.4%)** — suggests Olist functioned 
+  as a one-and-done marketplace rather than a loyalty-driven 
+  platform during this period
 
 ---
