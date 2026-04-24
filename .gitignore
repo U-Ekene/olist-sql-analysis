@@ -14,6 +14,7 @@ venv/
 # Private working log
 PROGRESS.md
 NOTES.md
+IDEAS.md
 
 # OS junk
 .DS_Store
