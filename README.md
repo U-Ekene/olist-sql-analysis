@@ -55,14 +55,33 @@ olist-sql-analysis/
 ### Theme 1: Dataset shape
 
 - **99,441 orders** across **25 months** (Sept 2016 – Oct 2018)
-- **~97% of orders successfully delivered** — operational health 
+- **~97% of orders successfully delivered** meaning operational health 
   is strong
 - **Heavy geographic concentration:** 3 states (SP, RJ, MG) account 
   for ~67% of all orders; São Paulo alone is 42%
 - **Within SP, one city dominates:** São Paulo city has ~10× the 
   orders of the next-largest SP city (Campinas)
-- **Low repeat purchase rate (~3.4%)** — suggests Olist functioned 
+- **Low repeat purchase rate (~3.4%)**, this suggests Olist functioned 
   as a one-and-done marketplace rather than a loyalty-driven 
   platform during this period
+
+### Theme 2: Customer & order patterns
+
+- **96.9% of customers ordered exactly once** (93,099 of 96,096) there was
+  near-total absence of repeat behavior. Olist functioned as a 
+  one-and-done marketplace, not a loyalty platform.
+- **One outlier customer placed 17 orders** — far above the rest 
+  of the long tail (next-highest was 9). 
+- **Order item prices range from R$0.85 to R$6,735** with a mean 
+  of R$120.65. The gap between mean and the floor suggests a 
+  right-skewed distribution.
+- **Repeat customers cluster where total volume is highest** 
+  (SP, RJ, MG) but at ~3% of customers per state, no region 
+  shows disproportionately stronger loyalty than the national 
+  average.
+- **Average order value is highest in small, remote states** 
+  (PB, AP, AC, AL — all ~R$200+) and lowest in major urban states. 
+  Likely driven by shipping economics: remote shoppers reserve 
+  online purchases for bigger-ticket items.
 
 ---
