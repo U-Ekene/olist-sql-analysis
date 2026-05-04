@@ -84,4 +84,26 @@ olist-sql-analysis/
   Likely driven by shipping economics: remote shoppers reserve 
   online purchases for bigger-ticket items.
 
+  ### Theme 3: Delivery performance
+
+- **Average delivery time is 12.6 days**, with a max of 209.6 days. 
+  Reasonable for Brazilian e-commerce in 2016-2018, but the long 
+  tail of catastrophic delays pulls the mean up.
+- **8.1% of orders are late** (7,826 of 96,478). Most cause the 
+  bulk of customer-service load even though they're a small share 
+  of total volume.
+- **Northeast Brazil has the worst delivery performance.** Alagoas 
+  (24% late), Maranhão (20%), Piauí (16%) all run 2-3× the national 
+  rate. Distance from southern distribution hubs is the likely driver.
+- **Rio de Janeiro is the standout among high-volume states** at 
+  13.5% late on 12,350 orders, generating 1,664 absolute late 
+  orders — more than the entire Northeast combined. The biggest 
+  operational lever isn't the worst-rate state, it's the worst 
+  state by absolute count.
+- **Delivery performance was volatile in late 2017 / early 2018.** 
+  Stable 3-5% late through most of 2017, then Black Friday 2017 
+  hit 14.3% late, followed by a sustained crisis in Feb-March 2018 
+  (16% then 21% late) before recovery. Operations didn't scale 
+  smoothly with volume.
+
 ---
