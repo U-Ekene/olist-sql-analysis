@@ -106,4 +106,28 @@ olist-sql-analysis/
   (16% then 21% late) before recovery. Operations didn't scale 
   smoothly with volume.
 
+### Theme 4: Seller analysis
+
+- **3,095 sellers, R$13.6M total revenue**, with massive spread 
+  (R$3.50 to R$229,473 — a 65,500× ratio). 
+- **Top 10 sellers (0.3% of total) generate ~13% of revenue**, 
+  while ~80% of sellers earn below the mean. Strong concentration 
+  among a small group of high-performers.
+- **Two seller business models in the top 10:** high-volume sellers 
+  (1,000-2,000 items, ~R$100/item) and premium sellers (~400 items, 
+  ~R$500/item) — different routes to similar revenue.
+- **Revenue and review quality correlate but not perfectly.** Most 
+  top-10 sellers cluster between 4.0-4.3 review scores. One 
+  outlier (R$188k revenue, 3.35 review score) shows a successful 
+  seller with notably weaker customer satisfaction — a flag for 
+  marketplace operations.
+- **Supply is heavily concentrated in São Paulo:** SP has 1,849 
+  sellers (60% of total) generating 64% of revenue. This explains 
+  Theme 3's delivery-rate gap — sellers cluster in the southeast, 
+  so orders to the Northeast travel long distances.
+- **Two states punch above their weight on per-seller productivity:** 
+  Bahia (R$15,029 per seller from 19 sellers) and Pernambuco 
+  (R$10,165 per seller from 9 sellers) — small but high-leverage 
+  markets where each seller produces 2-3× the SP average.
+
 ---
