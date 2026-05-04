@@ -84,7 +84,7 @@ olist-sql-analysis/
   Likely driven by shipping economics: remote shoppers reserve 
   online purchases for bigger-ticket items.
 
-  ### Theme 3: Delivery performance
+### Theme 3: Delivery performance
 
 - **Average delivery time is 12.6 days**, with a max of 209.6 days. 
   Reasonable for Brazilian e-commerce in 2016-2018, but the long 
