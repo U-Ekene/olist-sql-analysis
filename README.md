@@ -130,4 +130,28 @@ olist-sql-analysis/
   (R$10,165 per seller from 9 sellers) — small but high-leverage 
   markets where each seller produces 2-3× the SP average.
 
+### Theme 5: Products & categories
+
+- **Top revenue categories span broad consumer needs.** 
+  health_beauty (R$1.26M), watches_gifts (R$1.20M), and 
+  bed_bath_table (R$1.04M) lead — Olist sells across many categories 
+  is a horizontal . Notable absence: no fashion-specific category in the top 10.
+- **Watches/gifts has the highest revenue per item (~R$201)** — 
+  roughly 2× the platform average. Premium-pricing category that 
+  matches the "premium seller" profile from Theme 4.
+- **Books dominate customer satisfaction** (general interest 4.45, 
+  technical 4.37). Predictable products with low variability 
+  reliably score higher than complex ones. Food and stationery 
+  also perform well (4.19-4.32).
+- **Revenue and quality are decoupled in this marketplace.** Three 
+  of the top 6 highest-revenue categories — bed_bath_table, 
+  furniture_decor, computers_accessories — appear in the 
+  bottom 10 by review score. The platform's biggest revenue 
+  drivers are also among its weakest customer experiences.
+- **Office furniture is the standout problem area** at 3.49 avg 
+  review across 1,687 reviews — a clear outlier with strong 
+  sample size. Bulky/fragile/technically complex products 
+  consistently underperform on satisfaction, suggesting a 
+  systemic shipping or expectation-mismatch issue.
+
 ---
