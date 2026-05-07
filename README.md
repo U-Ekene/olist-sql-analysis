@@ -154,4 +154,28 @@ olist-sql-analysis/
   consistently underperform on satisfaction, suggesting a 
   systemic shipping or expectation-mismatch issue.
 
+### Theme 6: Advanced patterns (window functions)
+
+- **Within-state seller rankings reveal concentration patterns 
+  invisible in national rankings.** Bahia's #1 seller earned 
+  R$222,776 — about 15× their state's #3, confirming Theme 4's 
+  finding that BA's high per-seller average is driven by an 
+  outlier. SP and other large states show much flatter top-3 
+  distributions.
+- **Olist hit a step-change in November 2017 (Black Friday).** 
+  Order volume jumped 60% in one month and never returned to 
+  pre-November levels. The platform transitioned from "ramp-up 
+  startup" to "established marketplace" in that single month.
+- **Most of the dataset's growth happened in the second half.** 
+  It took 16 months to reach the first 50,000 orders, but only 
+  8 months to reach the next 46,000. 
+- **Growth flattened in mid-2018.** Month-over-month change 
+  bounces between -10% and +3% from April 2018 onward, with no 
+  sustained direction. The platform stabilized around 
+  6,000-7,000 orders per month — neither growing nor declining.
+- **The Feb-March 2018 delivery crisis (Theme 3) directly 
+  followed the Black Friday volume jump.** Operations couldn't 
+  scale with the new normal, and late delivery rates spiked 
+  to 16-21% before recovery in April.
+
 ---
